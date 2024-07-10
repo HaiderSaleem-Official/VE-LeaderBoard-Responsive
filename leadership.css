@@ -7,6 +7,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .nav_btn {
@@ -50,9 +51,10 @@ nav {
     background-color: #2D4955;
 }
 
+
 table {
     border: 1px solid #ffffff;
-    font-weight: 30;
+    border-spacing: 0px;    
 }
 
 .heading {
@@ -65,20 +67,26 @@ table {
 }
 
 .column2 {
+    padding: 0.2rem 0rem;
     padding-right: 13rem;
 }
 .column1 {
+    padding: 0.2rem 0rem;
     padding: 0rem 1.6rem;
     border: none;
     outline: none;
 }
 .column3 {
+    padding: 0.2rem 0rem;
     padding-right: 3rem;
+    
 }
 .column4 {
+    padding: 0.2rem 0rem;
     padding-right: 3rem;
 }
 .column5 {
+    padding: 0.2rem 0rem;
     padding-right: 3rem;
 }
 
@@ -89,7 +97,7 @@ table {
     padding-top: 2rem;
 }
 .mainmenu_btn {
-    background-color: #f80505b3;
+    background: linear-gradient(to bottom, #F80705, #7B1E1D);
     color: #ffffff;
     height: 2.5rem;
     width: 20rem;
@@ -286,7 +294,7 @@ h1 {
     }
 
     .mainmenu_btn {
-        background-color: #f80505b3;
+        background: linear-gradient(to bottom, #F80705, #7B1E1D);
         color: #ffffff;
         height: 1.5rem;
         width: 10rem;
@@ -335,7 +343,7 @@ h1 {
     }
 
     .mainmenu_btn {
-        background-color: #f80505b3;
+        background: linear-gradient(to bottom, #F80705, #7B1E1D);
         color: #ffffff;
         height: 1.5rem;
         width: 10rem;
