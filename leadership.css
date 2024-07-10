@@ -108,6 +108,12 @@ h1 {
     padding-bottom: 2rem;
 }
 
+td {
+    text-align: center;
+} 
+
+
+
 /* Now Work on responsivness */
 @media (max-width:1366px) {
     .container   {
