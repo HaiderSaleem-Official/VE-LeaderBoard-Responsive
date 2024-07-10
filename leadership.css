@@ -63,7 +63,7 @@ table {
 }
 .heading_col {
     padding: 0.5rem 0rem;
-    /* border-bottom: 1px solid #ffffff; */
+    border-bottom: 1px solid #ffffff;
 }
 
 .column2 {
